@@ -1,18 +1,3 @@
----
-title: Your Exam System
-emoji: 🏃
-colorFrom: pink
-colorTo: indigo
-sdk: gradio
-sdk_version: 5.33.1
-app_file: app.py
-pinned: false
-license: mit
-short_description: Create your own exam and see how it goes
-tags: ["agent-demo-track"]
----
-
-
 ## Project Title  
 **Exam Question Generator and Answer Evaluator**
 
